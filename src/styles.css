@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+
+}
+
+.heading {
+    font-size: 48px;
+    text-align: center;
+}
+
+.heading-2 {
+    font-size: 40px;
+}
